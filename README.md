@@ -10,7 +10,9 @@ This Power BI dashboard analyzes global Electric Vehicle (EV) sales between **20
 
 ### 1️⃣ Executive Overview
 
-![Overview](Dashboard%20Images/Overview.JPG)
+Overview.JPG
+
+https://github.com/ashish-da/EV-Sales-Dashboard-2020-2026-/blob/main/Overview.JPG
 
 Highlights:
 
